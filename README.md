@@ -1,6 +1,9 @@
 # Consumer Behavior Analysis
 ## Goal
 To understand customer purchase behavior across different channels and demographics to help optimize marketing strategies, increase customer retention, and boost sales performance.
+## Data Cleaning
+Social media influence and Engagement with ads columns had 246 and 256 missing values respectively. All values were filled with Unknown.
+
 ## Key Questions
 Which factors influence high purchase amounts?
 How does brand loyalty affect purchase frequency and satisfaction?
